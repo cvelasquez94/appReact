@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "First application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianDias/React.git"
+  },
+  "author": "Cristian Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianDias/React/issues"
+  },
+  "homepage": "https://github.com/CristianDias/React#readme",
+  "dependencies": {
+    "node": "0.0.0",
+    "redux": "^3.6.0"
+  }
+}
